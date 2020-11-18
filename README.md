@@ -15,5 +15,6 @@ A Java/Android Studio application that gives the user various options when it co
 
 # Useful Links:
 - Navigating GitHub: https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+- Adding Files to GitHub: https://www.geeksforgeeks.org/how-to-upload-project-on-github-from-android-studio/
 - Storing Images in SQL Server: https://stackoverflow.com/questions/5613898/storing-images-in-sql-server
 - Connecting Activities: https://www.youtube.com/watch?v=bgIUdb-7Rqo&vl=en
